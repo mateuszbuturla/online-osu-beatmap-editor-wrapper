@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/mateuszbuturla/online-osu-beatmap-editor-client
+[submodule "server"]
+	path = server
+	url = https://github.com/mateuszbuturla/online-osu-beatmap-editor-server
